@@ -1,0 +1,31 @@
+.div-a{
+    background-color: #FF8C00;
+    width: 500px;
+    height: 500px;
+}
+
+.div-b{
+    background-color: #00FFCC;
+    height: 50%;
+    width: 50%;
+}
+
+.p-filho-b{
+    color: #FFFFFF;
+    background-color: #FF0000;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.div-d{
+    width: 50%;
+    height: 50vh;
+    background-color: #00AAFF;
+}
+
+.div-d-f{
+    width: 75vw;
+    height: 50%;
+    background-color: #FF0000;
+}
