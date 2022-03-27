@@ -1,13 +1,20 @@
 .div-a{
     background-color: #FF8C00;
+    border-radius: 50px;
     width: 500px;
     height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .div-b{
     background-color: #00FFCC;
+    border-radius: 20px 100px 200px 300px;
+    border: greenyellow 10px solid;
     height: 50%;
     width: 50%;
+
 }
 
 .p-filho-b{
