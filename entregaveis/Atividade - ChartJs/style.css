@@ -1,0 +1,10 @@
+body{
+    display: flex;
+
+}
+
+canvas{
+    position: relative;
+    width: 80vh;
+    height: 80vh;
+}
